@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+.main{
+		background-color: aquamarine;
+	    height: 600px;
+		margin: 0;
+		display: flex;
+		justify-content: center;
+		align-items:center;
+}
